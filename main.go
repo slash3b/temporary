@@ -1,4 +1,4 @@
-package github.com/slash3b/temporary
+package temporary
 
 
 func Fooo() string {
